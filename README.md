@@ -7,7 +7,7 @@ Electrical technician and Mechatronics engineering student
 I'm passionate about electronics, automation, robotics, and programming electrical devices. Beyond my vocational secondary school education, I've self-taught with great efficiency, participating in five competitions and an enriching Erasmus program. Currently pursuing a Mechatronics Engineering undergraduate major at the Technical College in Subotica, I believe in the convergence of mechanical, electrical, and IT knowledge to meet the demands of modern devices. In my journey, I've tackled challenging projects, honing skills in electronics (analog, digital, power), automation, robotics, and programming electrical devices. I've actively applied this knowledge in competitions and international experiences, constantly seeking ways to push boundaries.
 
 * 🌍  I'm based in Subotica
-* ✉️  You can contact me at [richardnagy551 @gmail.com](mailto:richardnagy551 @gmail.com)
+* ✉️  You can contact me at [richardnagy551 @gmail.com]
 * 🧠  I'm learning high speed hardware design, DSP algorithims, audio electronics.
 * 🤝  I'm open to collaborating on custom hardware design, assembly and repair, automation systems design, repair and assembly and embedded firmware development.
 
