@@ -7,8 +7,6 @@ Electrical technician and Mechatronics engineering student
 Experienced Electrical technician and Mechatronics engineering student with a demonstrated history of working in the industry. Skilled in Autodesk Inventor, Embedded systems, Industrial automation and Robotics. Currently pursuing a Mechatronics engineering undergraduate major at Subotica Tech - College of Applied Sciences.
 * 🌍  I'm based in Subotica
 * ✉️  You can contact me at [richardnagy551 @gmail.com]
-* 🧠  I'm learning high speed hardware design, DSP algorithims, audio electronics.
-* 🤝  I'm open to collaborating on custom hardware design, assembly and repair, automation systems design, repair and assembly and embedded firmware development.
 
 ### Skills
 
