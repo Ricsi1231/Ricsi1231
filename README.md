@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Electrical technician and Mechatronics engineering student
 ----------------------------------------------------------
 
-I'm passionate about electronics, automation, robotics, and programming electrical devices. Beyond my vocational secondary school education, I've self-taught with great efficiency, participating in five competitions and an enriching Erasmus program. Currently pursuing a Mechatronics Engineering undergraduate major at the Technical College in Subotica, I believe in the convergence of mechanical, electrical, and IT knowledge to meet the demands of modern devices. In my journey, I've tackled challenging projects, honing skills in electronics (analog, digital, power), automation, robotics, and programming electrical devices. I've actively applied this knowledge in competitions and international experiences, constantly seeking ways to push boundaries.
-
+Experienced Electrical technician and Mechatronics engineering student with a demonstrated history of working in the industry. Skilled in Autodesk Inventor, Embedded systems, Industrial automation and Robotics. Currently pursuing a Mechatronics engineering undergraduate major at Subotica Tech - College of Applied Sciences.
 * 🌍  I'm based in Subotica
 * ✉️  You can contact me at [richardnagy551 @gmail.com]
 * 🧠  I'm learning high speed hardware design, DSP algorithims, audio electronics.
